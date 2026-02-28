@@ -22,7 +22,7 @@ Next, I used weather data from the OpenWeatherMap API for each day in LA and com
 
 # Transform
 
-In the transform phase, I performed basic data cleaning such as dropping null values, creating a column for the revenue per unit sold, correcting some incorrectly labeled zip codes, and merging the sales dataframe with the weather dataframe using a left join on the date of the sales. In particular, I included the temperature, humidity, and revenue per unit in this merged dataset, along with essential information about each store, such as the store id and zip code.
+In the transform phase, I performed basic data cleaning in Pandas such as dropping null values, creating a column for the revenue per unit sold, correcting some incorrectly labeled zip codes, and merging the sales dataframe with the weather dataframe using a left join on the date of the sales. In particular, I included the temperature, humidity, and revenue per unit in this merged dataset, along with essential information about each store, such as the store id and zip code.
 
 <img width="737" height="46" alt="image" src="https://github.com/user-attachments/assets/f47a5a3d-0484-4ddc-9a7c-567f5fc6a345" />
 
