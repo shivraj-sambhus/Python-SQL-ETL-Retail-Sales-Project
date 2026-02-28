@@ -1,6 +1,6 @@
 # Python-SQL-ETL-Retail-Sales-Project
 
-<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/24c98c13-e8c8-4b5e-83af-985fc83dd3d7" />
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/96f184c5-53b4-4084-81be-b663caf43954" />
 
 # Objective
 
